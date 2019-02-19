@@ -31,12 +31,13 @@ Run `generate_sample.py` to generate data.
 ```
 $ python generate_sample.py
 ```
+
+Run following commands to compile & run serial program.  
+
 ```
 $ gcc -o knn_serial.out knn_serial.c
 $ ./knn_serial.out
 ```
-
-Run following commands to compile & run serial program.  
 
 Run following commands to compile & run parallel programs. 
 
